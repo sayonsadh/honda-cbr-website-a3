@@ -1,0 +1,14 @@
+#transitiony:hover{
+    transform: rotatey(360deg);
+    transition-duration: 10s;
+}
+
+#transitionx:hover{
+    transform: rotatex(360deg);
+    transition-duration: 10s;
+}
+
+#transitionz:hover{
+    transform: rotatez(360deg);
+    transition-duration: 10s;
+}
